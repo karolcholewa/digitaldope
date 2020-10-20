@@ -1,5 +1,13 @@
 ## Bullet List
 A short recipe for a good-looking bullet list.
+  <ul style="margin:0; margin-left: 25px; padding:0;">
+  <li style="line-height: 22px; margin-bottom: 10px">Item 1</li>
+  <li style="line-height: 22px; margin-bottom: 10px">Item 2</li>
+  <li style="line-height: 22px; margin-bottom: 10px">Item 3</li>
+  <li style="line-height: 22px; margin-bottom: 10px">Item 4</li>
+  <li style="line-height: 22px; margin-bottom: 10px">Item 5</li>
+  </ul>
+
 
 
 
@@ -11,13 +19,6 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-  <ul style="margin:0; margin-left: 25px; padding:0;">
-  <li style="line-height: 22px; margin-bottom: 10px">Item 1</li>
-  <li style="line-height: 22px; margin-bottom: 10px">Item 2</li>
-  <li style="line-height: 22px; margin-bottom: 10px">Item 3</li>
-  <li style="line-height: 22px; margin-bottom: 10px">Item 4</li>
-  <li style="line-height: 22px; margin-bottom: 10px">Item 5</li>
-  </ul>
 Syntax highlighted code block
 
 # Header 1
